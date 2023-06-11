@@ -1,0 +1,7 @@
+onnxruntime==1.15.0
+onnxruntime_gpu==1.15.0
+Pillow==9.5.0
+Pillow==9.5.0
+rembg==2.0.43
+streamlit==1.22.0
+torch==2.0.1+cu118
