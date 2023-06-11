@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import warnings
 import torch        # Don't ask
-import onnxruntime  # Won't tell
+import onnxruntime  # Won't tell (joking; fixes troubles with gpu access in some instances)
 from rembg import remove
 from PIL import Image
 
