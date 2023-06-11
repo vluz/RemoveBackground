@@ -5,4 +5,4 @@
 
 `streamlit run delbg.py`
 
-todo: add other methods mixed in, display all outputs and let user choose the best
+todo: add other methods, display all outputs and let user choose the best
